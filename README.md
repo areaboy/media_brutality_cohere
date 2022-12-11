@@ -6,7 +6,9 @@ Easily Detect Toxics and Brutal/Offensive Words in a Social Media Posts Powered 
 # How to run the Application
 
 1.) Ensure that you have Xampp Install.
+
 2.) Ensure that You have php running.
+
 3.) Edit **settings.php**  to reflect your Cohere AI API keys/Tokens .
 
 
